@@ -11,4 +11,3 @@
 # requests==2.31.0
 
 # pyautogui==0.9.54
-
