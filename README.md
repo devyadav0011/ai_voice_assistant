@@ -1,4 +1,4 @@
- SpeechRecognition==3.10.0
+* SpeechRecognition==3.10.0
 
 pyttsx3==2.90
 
